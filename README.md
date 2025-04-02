@@ -25,3 +25,14 @@ To open the selected URL, press Enter. You can also copy the URL to your input b
 ## License
 
 This project is licensed under the terms of the GPLv3 license. See the LICENSE file for details.
+
+## Error while adding to Ulauncher
+
+When trying to add this extension to Ulauncher, it gives error.
+
+There's an error in versions.json:
+Commit/branch "main" does not exist or could not be retrieved.
+
+If you fix, more users can use this by adding auto
+
+
